@@ -7,3 +7,4 @@ dev-python/lchat/*
 sci-libs/huggingface_hub/*
 !sci-libs/huggingface_hub/*.ebuild
 !sci-libs/huggingface_hub/Manifest
+!LICENSE
