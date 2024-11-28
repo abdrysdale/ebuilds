@@ -1,0 +1,9 @@
+/*
+!dev-python
+dev-python/lchat/*
+!dev-python/lchat/*.ebuild
+!dev-python/lchat/Manifest
+!sci-libs
+sci-libs/huggingface_hub/*
+!sci-libs/huggingface_hub/*.ebuild
+!sci-libs/huggingface_hub/Manifest
